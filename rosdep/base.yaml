@@ -6106,6 +6106,9 @@ udhcpc:
   arch: [udhcp]
   debian: [udhcpc]
   ubuntu: [udhcpc]
+udp_com:
+  debian: [udp-com]
+  ubuntu: [udp-com]
 unclutter:
   debian: [unclutter]
   fedora: [unclutter]
